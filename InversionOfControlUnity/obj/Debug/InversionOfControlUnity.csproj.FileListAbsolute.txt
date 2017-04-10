@@ -1,0 +1,15 @@
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\InversionOfControlUnity.exe.config
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\obj\Debug\InversionOfControlUnity.csprojResolveAssemblyReference.cache
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\InversionOfControlUnity.exe
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\InversionOfControlUnity.pdb
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\Microsoft.Practices.Unity.dll
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\Microsoft.Practices.Unity.xml
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\obj\Debug\InversionOfControlUnity.exe
+c:\Projects\InversionOfControlUnity\InversionOfControlUnity\obj\Debug\InversionOfControlUnity.pdb
